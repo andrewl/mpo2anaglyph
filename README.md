@@ -1,7 +1,7 @@
 mpo2anaglyph
 ============
 
-Script to convert mpo to anaglyph jpg.
+Script to convert mpo to anaglyph jpg (see an example at http://www.flickr.com/photos/andrewlarcombe/8133135370/in/photostream/lightbox/)
 
 Requirements: ImageMagick, Exiftool.
 
